@@ -1,2 +1,2 @@
 # Digit-Recognizer-Using-KNN 
-## Dataset used - train.csv
+## Dataset used - MNIST
