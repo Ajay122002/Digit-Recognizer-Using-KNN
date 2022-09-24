@@ -1,1 +1,2 @@
-# Digit-Recognizer-Using-KNN
+# Digit-Recognizer-Using-KNN 
+## Dataset used - train.csv
